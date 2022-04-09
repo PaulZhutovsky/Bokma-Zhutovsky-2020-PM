@@ -1,1 +1,1 @@
-# Bokma-Zhutovsky-2020-PM
+Code for Bokma*, Zhutovsky*, et al. (2020). Predicting the naturalistic course in anxiety disorders using clinical and biological markers: A machine learning approach. _Psychological Medicine, 52_(1), 57-67. https://doi.org/10.1017/S0033291720001658
